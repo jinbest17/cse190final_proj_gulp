@@ -9,9 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "del": "^5.1.0",
     "gulp": "^3.9.0",
     "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
     "gulp-copy": "^4.0.1",
-    "gulp-image": "^6.2.0"
+    "gulp-image": "^6.2.0",
+    "gulp-uglify": "^3.0.2"
   }
 }
